@@ -1,0 +1,28 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  
+  table {
+    width: 90%;
+    border-collapse: collapse;
+    margin-top: 80px;
+    margin-left: 60px;
+  }
+
+  th, td{
+    border: 1px solid #e3e0e0;
+    padding: 8px;
+    text-align: left;
+  }
+
+  th {
+    background-color: #c7c5c5;
+  }
+
+  tr:hover {
+    background-color: #ebe9e9;
+  }
+
+  .b2 {
+    margin: 5px;
+  }
